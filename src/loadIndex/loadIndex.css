@@ -1,0 +1,17 @@
+.containerAll{
+    width: 90%;
+    left: 5%;
+    height: 90vh;
+    top: 5vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    gap: 10%;
+}
+.containerAll button{
+    border: none;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
